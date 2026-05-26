@@ -1,0 +1,9 @@
+{
+  "name": "Faculty Evaluation System",
+  "description": "A comprehensive system for managing faculty evaluations by students, featuring multi-role access (Superadmin, Admin, Faculty, Student), real-time reporting, and automated certification.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
