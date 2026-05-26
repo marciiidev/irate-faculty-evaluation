@@ -1,20 +1,14 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# IRate: Faculty Evaluation System
 
-# Run and deploy your AI Studio app
+A web-based faculty evaluation platform featuring multi-role dashboards for superadmins, admins, faculty, and students. Built with PHP, SQL, HTML, and Tailwind CSS.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
+- **Multi-Role Access Control:** Custom responsive interfaces and permission levels for Superadmins, Admins, Faculty, and Students.
+- **Clean Dashboard UI:** Modern sidebars, layouts, and data tables powered by Tailwind CSS.
+- **Evaluation Management:** Streamlined and automated tracking of faculty evaluations per academic year.
+- **Database Architecture:** Well-structured relational database tables to process student inputs and handle analytical queries efficiently.
 
-View your app in AI Studio: https://ai.studio/apps/86c21443-b6bd-45d7-8cf7-2d92994e353e
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tech Stack
+- **Backend / Logic:** PHP
+- **Database:** MySQL / SQL
+- **Frontend / UI:** HTML, Tailwind CSS, JavaScript
