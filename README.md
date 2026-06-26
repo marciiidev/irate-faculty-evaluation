@@ -38,25 +38,16 @@ Built using **PHP, MySQL, HTML, Tailwind CSS, and JavaScript**.
 ## 📸 System Screenshots
 
 ### 🔐 Login Page
-![Login Page](<img width="1916" height="866" alt="image" src="https://github.com/user-attachments/assets/ff568223-3975-4365-a3e3-fc63720bfb5c" />
-)
+<img src="https://github.com/user-attachments/assets/ff568223-3975-4365-a3e3-fc63720bfb5c" width="900"/>
 
 ### 🧑‍💼 Superadmin Dashboard
-![Superadmin Dashboard](<img width="1899" height="635" alt="image" src="https://github.com/user-attachments/assets/9ab845dd-410c-4542-a78a-2069555b44b9" />
-)
+<img src="https://github.com/user-attachments/assets/9ab845dd-410c-4542-a78a-2069555b44b9" width="900"/>
 
 ### 🧑‍💻 Admin Dashboard
-![Admin Dashboard](<img width="1919" height="827" alt="image" src="https://github.com/user-attachments/assets/bddfcf07-b04b-400d-bcf9-2e0667939476" />
-)
+<img src="https://github.com/user-attachments/assets/bddfcf07-b04b-400d-bcf9-2e0667939476" width="900"/>
 
 ### 👨‍🏫 Faculty Dashboard
-![Faculty Dashboard](<img width="1919" height="743" alt="image" src="https://github.com/user-attachments/assets/db3cef71-7e96-47ff-80d9-edf0cce9eb55" />
-)
+<img src="https://github.com/user-attachments/assets/db3cef71-7e96-47ff-80d9-edf0cce9eb55" width="900"/>
 
 ### 🎓 Student Dashboard
-![Student Dashboard](<img width="1902" height="739" alt="image" src="https://github.com/user-attachments/assets/09be05a8-5091-46cf-8f08-8d8a0fa6e087" />
-)
-
----
-
-## 📁 Project Structure (Optional)
+<img src="https://github.com/user-attachments/assets/09be05a8-5091-46cf-8f08-8d8a0fa6e087" width="900"/>
